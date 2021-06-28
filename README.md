@@ -1,16 +1,28 @@
-### Hi there 👋
+## 👨🏻‍💻 A little bit about me
 
-<!--
-**galleonpt/galleonpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋🏻  
+I'm José Luís Rodrigues, finalist in Computer Systems Engineering at [IPCA](https://ipca.pt/en/) focusing my study on nodejs.
 
-Here are some ideas to get you started:
+## 💻 My Favorite Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript
+- Typescript
+- Nodejs
+
+## 🔨 Some tools I've already used
+
+- Jest
+- MongoDB
+- Knex
+- Reactjs
+- React Native
+- C language
+- PHP
+
+## 🖱️ Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galleonpt&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)
+
+## 📱 Contact
+
+<a href="https://www.linkedin.com/in/jos%C3%A9-gln-rodrigues/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px"/></a>
