@@ -25,4 +25,5 @@ I'm José Luís Rodrigues, finalist in Computer Systems Engineering at [IPCA](ht
 
 ## 📱 Contact
 
-<a href="https://www.linkedin.com/in/jos%C3%A9-gln-rodrigues/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px"/></a>
+[<a href="https://www.linkedin.com/in/jos%C3%A9-gln-rodrigues/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px"/></a>](url)
+[![Gmail Badge](https://img.shields.io/badge/-jose15.luis00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose15.luis00@gmail.com)](mailto:jose15.luis00@gmail.com)
