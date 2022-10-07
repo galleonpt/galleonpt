@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 A little bit about me
 
 Hi there 👋🏻  
-I'm José Luís Rodrigues, graduated in Computer Systems Engineering at [IPCA](https://ipca.pt/en/). Currently I'm looking for a job so if you have one opportunity for a junior developer send it to me please!
+I'm José Luís Rodrigues, graduated in Computer Systems Engineering at [IPCA](https://ipca.pt/en/).
 
 If you are interested in contacting me, please do not hesitate. You have my linkedin and email down below.
 
