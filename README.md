@@ -35,8 +35,6 @@ If you are interested in contacting me, please do not hesitate. You have my link
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galleonpt&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)
-
 ## 📱 Contacts
 
 [<a href="https://www.linkedin.com/in/jos%C3%A9-gln-rodrigues/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px"/></a>](url)
