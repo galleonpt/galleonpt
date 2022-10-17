@@ -29,7 +29,7 @@ If you are interested in contacting me, please do not hesitate. You have my link
 
 <p align="center">
 <a ref="https://github.com/galleonpt">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=galleonpt&count_private=true&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=galleonpt&count_private=true&show_icons=true&theme=dark"/>
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galleonpt&layout=compact&theme=dark&hide_border=true&cache_seconds=2000"/>
 </a>
