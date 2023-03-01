@@ -10,14 +10,17 @@ Currently I'm studying more about frontend development with ReactJS. Also, I lik
 
 ## 🖱️ Github Stats
 
+![](https://komarev.com/ghpvc/?username=galleonpt)
+
 <p align="center">
 <a ref="https://github.com/galleonpt">
 <img height="180" src="https://github-activity-readme-stats.vercel.app/api?username=galleonpt&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
 &nbsp;&nbsp;
 </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=galleonpt&theme=dark"/></a>
 </p>
 
 ## 📱 Contacts
 
 [<a href="https://www.linkedin.com/in/jos%C3%A9-gln-rodrigues/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px"/></a>](url)
-[![Gmail Badge](https://img.shields.io/badge/-jose15.luis00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose15.luis00@gmail.com)](mailto:jose15.luis00@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose15.luis00@gmail.com)](mailto:jose15.luis00@gmail.com)
