@@ -6,7 +6,7 @@ I'm José Luís Rodrigues, graduated in Computer Systems Engineering at [IPCA](h
 If you are interested in contacting me, please do not hesitate. You have my linkedin and email down below.
 
 ## Studies
-Currently I'm studying more about frontend development with ReactJS. Also, I like mobile development with React Native.
+Currently I'm studying more about frontend development with ReactJS. Also I have a special taste for backend with NodeJS and mobile with React Native.
 
 ## 📱 Contacts
 
